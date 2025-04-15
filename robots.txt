@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://animeworld-co.github.io/sitemap.xml
+
+# Optional: Prevent Google from indexing development/test folders
+Disallow: /dev/
+Disallow: /test/
