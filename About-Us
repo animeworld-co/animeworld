@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Learn about AnimeWorld – your ultimate destination to watch anime online free, explore trending series, and stay connected with the anime universe." />
+  <meta name="keywords" content="animeworld, watch anime online, free anime, anime streaming, about animeworld" />
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="AnimeWorld Team" />
+  <title>About Us | AnimeWorld</title>
+
+  <!-- Styles -->
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #121212;
+      color: #ffffff;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #1f1f1f;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      color: #ff3e6c;
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    .section-title {
+      color: #ff3e6c;
+      font-size: 2rem;
+      margin-bottom: 15px;
+    }
+    .highlight {
+      color: #f9b233;
+      font-weight: bold;
+    }
+    .card {
+      background-color: #1f1f1f;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 0 10px rgba(255, 62, 108, 0.4);
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #1f1f1f;
+      color: #888;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>About AnimeWorld</h1>
+  </header>
+
+  <div class="container">
+    <div class="card">
+      <h2 class="section-title">Welcome to <span class="highlight">AnimeWorld</span></h2>
+      <p>
+        <strong>AnimeWorld</strong> is your go-to destination to explore, stream, and fall in love with anime. 
+        Built by passionate anime fans, for fans – our mission is to create the most immersive and user-friendly anime streaming experience possible.
+      </p>
+
+      <p>
+        Whether you're into action-packed shounen, heartwarming romance, or mind-bending sci-fi, 
+        <span class="highlight">AnimeWorld</span> has something for everyone. Our curated collection includes trending titles, classic series, and hidden gems.
+      </p>
+
+      <h2 class="section-title">Why AnimeWorld?</h2>
+      <ul>
+        <li>🎥 HD streaming of the latest and greatest anime series</li>
+        <li>📱 Mobile-friendly design for watching on the go</li>
+        <li>💬 Built-in community for anime lovers to connect</li>
+        <li>🚀 Fast, ad-free experience (because we care)</li>
+      </ul>
+
+      <p>
+        As <strong>AnimeWorld</strong> continues to grow, our vision remains clear: 
+        to be the #1 platform for discovering and watching anime online. 
+        We’re constantly evolving and updating to bring the best experience to our fans worldwide.
+      </p>
+
+      <p>
+        Thank you for being a part of the <span class="highlight">AnimeWorld</span> community. 
+        Stay connected. Stay animated. 💖
+      </p>
+    </div>
+  </div>
+
+  <footer>
+    &copy; 2025 AnimeWorld. All rights reserved.
+  </footer>
+
+</body>
+</html>
